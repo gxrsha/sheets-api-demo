@@ -5,6 +5,13 @@ Demo project using Express to posting to a google sheet
 
 ## Usage
 
+Link to the Google Sheet where you can see the data or manually add data:
+https://docs.google.com/spreadsheets/d/1rSknNRxHVSAYb6p_cKyZwdenYKBy362k8P5FhM8JXtA/edit#gid=0
+
+Using Sheet.best to use their API methods:
+https://sheet.best/
+
+
 There are 2 paths you can play with 
 ```
 GET /sheet
