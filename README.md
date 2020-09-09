@@ -11,13 +11,15 @@ https://docs.google.com/spreadsheets/d/1rSknNRxHVSAYb6p_cKyZwdenYKBy362k8P5FhM8J
 Using Sheet.best to use their API methods:
 https://sheet.best/
 
+Download repo and run 
+`npm run start`
 
-There are 2 paths you can play with 
+Open postman there are 2 paths you can play with 
 ```
-GET /sheet
+GET localhost:3000/sheet
 ```
 ```
-POST /sheet
+POST localhost:3000/sheet
 ```
 ```
 Sample of body to send on POST request
