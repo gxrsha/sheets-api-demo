@@ -1,0 +1,18 @@
+{
+  "name": "sheetsapi-demo",
+  "version": "1.0.0",
+  "description": "Demo for uploading data into google sheets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
